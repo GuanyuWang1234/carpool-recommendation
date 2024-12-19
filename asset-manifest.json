@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/carpool-recommendation/static/css/main.f855e6bc.css",
-    "main.js": "/carpool-recommendation/static/js/main.40fc695d.js",
+    "main.css": "/carpool-recommendation/static/css/main.9564101c.css",
+    "main.js": "/carpool-recommendation/static/js/main.885501d8.js",
     "index.html": "/carpool-recommendation/index.html",
-    "main.f855e6bc.css.map": "/carpool-recommendation/static/css/main.f855e6bc.css.map",
-    "main.40fc695d.js.map": "/carpool-recommendation/static/js/main.40fc695d.js.map"
+    "main.9564101c.css.map": "/carpool-recommendation/static/css/main.9564101c.css.map",
+    "main.885501d8.js.map": "/carpool-recommendation/static/js/main.885501d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.40fc695d.js"
+    "static/css/main.9564101c.css",
+    "static/js/main.885501d8.js"
   ]
 }
